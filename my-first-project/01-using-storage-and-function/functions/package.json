@@ -14,7 +14,7 @@
   },
   "dependencies": {
     "child-process-promise": "2.2.1",
-    "cloudconvert": "2.3.0",
+    "cloudconvert": "3.0.0",
     "cors": "2.8.5",
     "firebase-admin": "11.5.0",
     "firebase-functions": "^3.3.0"
